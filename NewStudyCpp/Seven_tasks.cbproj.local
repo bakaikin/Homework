@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2014.07.30 21:09:19.621.cpp,d:\Documents\Documents\RAD Studio\Projects\File1.cpp=E:\NewStudyCpp\min_max_3num.cpp</Transaction>
+    <Transaction>2014.07.30 21:09:30.094.cbproj,d:\Documents\Documents\RAD Studio\Projects\Project1.cbproj=E:\NewStudyCpp\min_max_3num.cbproj</Transaction>
+    <Transaction>2014.08.04 11:45:38.366.h,E:\NewStudyCpp\File1.h=E:\NewStudyCpp\1_min_max_3_num.h</Transaction>
+    <Transaction>2014.08.04 11:46:13.159.cpp,E:\NewStudyCpp\min_max_3num.cpp=E:\NewStudyCpp\main.cpp</Transaction>
+    <Transaction>2014.08.04 11:48:13.919.h,E:\NewStudyCpp\File2.h=E:\NewStudyCpp\2_negative_summ_5num.h</Transaction>
+    <Transaction>2014.08.04 11:48:44.206.cbproj,E:\NewStudyCpp\min_max_3num.cbproj=E:\NewStudyCpp\Seven_tasks.cbproj</Transaction>
+    <Transaction>2014.08.04 15:12:20.055.h,E:\NewStudyCpp\File3.h=E:\NewStudyCpp\3_sum_of_6_floats.h</Transaction>
+    <Transaction>2014.08.04 15:15:29.631.h,E:\NewStudyCpp\File4.h=E:\NewStudyCpp\4_calculate.h</Transaction>
+    <Transaction>2014.08.04 15:17:17.892.h,E:\NewStudyCpp\File5.h=E:\NewStudyCpp\5_odd_or_even.h</Transaction>
+    <Transaction>2014.08.04 15:18:45.724.h,E:\NewStudyCpp\4_calculate.h=E:\NewStudyCpp\4_calculate_expression.h</Transaction>
+    <Transaction>2014.08.04 15:30:43.714.h,E:\NewStudyCpp\File6.h=E:\NewStudyCpp\stats_of_sequence.h</Transaction>
+    <Transaction>2014.08.04 15:30:52.637.h,E:\NewStudyCpp\stats_of_sequence.h=E:\NewStudyCpp\6_stats_of_sequence.h</Transaction>
+    <Transaction>2014.08.04 15:35:46.375.h,E:\NewStudyCpp\File7.h=E:\NewStudyCpp\max_of_two_digits.h</Transaction>
+    <Transaction>2014.08.04 15:35:56.309.h,E:\NewStudyCpp\max_of_two_digits.h=E:\NewStudyCpp\7_max_of_two_digits.h</Transaction>
+    <Transaction>2014.08.06 18:24:58.241.h,E:\NewStudyCpp\File1.h=E:\NewStudyCpp\warning.h</Transaction>
+    <Transaction>2014.08.06 19:49:10.688.h,E:\NewStudyCpp\warning.h=</Transaction>
+    <Transaction>2014.08.06 21:35:41.984.h,E:\NewStudyCpp\File1.h=E:\NewStudyCpp\even_pos_10num.h</Transaction>
+  </Transactions>
+</BorlandProject>

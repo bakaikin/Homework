@@ -1,0 +1,35 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include <tchar.h>
+#include <iostream>
+#include <conio.h>
+
+using namespace std;
+
+//---------------------------------------------------------------------------
+
+#pragma argsused
+int _tmain(int argc, _TCHAR* argv[])
+{
+
+  int num1;
+  int num2;
+
+
+  cout << "input 1 ";
+  cin >> num1;
+  cout << "input 2 ";
+  cin >> num2;
+
+  cout << "a+b = " << num1+num2<<"\n";
+  cout << "a-b = " << num1-num2<<"\n";
+  cout << "a*b = " << num1*num2<<"\n";
+  cout << "a/b = " << num1/num2<<"\n";
+
+  getch();
+
+	return 0;
+}
+//---------------------------------------------------------------------------

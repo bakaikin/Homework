@@ -1,0 +1,33 @@
+
+bool min_max_3_num()
+{
+	double num1,num2,num3;
+	cout << " input 1 ";
+	cin  >> num1;
+	cout << " input 2 ";
+	cin  >> num2;
+	cout << " input 3 ";
+	cin  >> num3;
+
+	double min = num1;
+	double max = num2;
+
+	if(num1>max)
+	max = num1;
+	if(num2>max)
+	max = num2;
+	if(num3>max)
+	max = num3;
+
+	if(num1<min)
+	min = num1;
+	if(num2<min)
+	min = num2;
+	if(num3<min)
+	min = num3;
+
+	cout << " min = " << min<<"\n";
+	cout << " max = " << max<<"\n";
+}
+
+

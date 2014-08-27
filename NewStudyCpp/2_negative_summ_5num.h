@@ -1,0 +1,33 @@
+
+
+bool negative_summ_5num()
+{
+	double x1,x2,x3,x4,x5,n_sum;
+
+	cout << " x1 ";
+	cin  >> x1;
+	cout << " x2 ";
+	cin  >> x2;
+	cout << " x3 ";
+	cin  >> x3;
+	cout << " x4 ";
+	cin  >> x4;
+	cout << " x5 ";
+	cin  >> x5;
+
+	n_sum = 0;
+
+	if(x1<0)
+		n_sum+=x1;
+	if(x2<0)
+		n_sum+=x2;
+	if(x3<0)
+		n_sum+=x3;
+	if(x4<0)
+		n_sum+=x4;
+	if(x5<0)
+		n_sum+=x5;
+	cout << n_sum;
+
+	return true;
+}

@@ -1,0 +1,31 @@
+bool stats_of_sequence()
+{
+	input = 0;sum=0;min=0;avg=0;max=0;count=0;
+	while(sum < 100)
+	{
+		count++;
+		cout << "input a number" <<endl;
+		cin  >> input;
+		line.push_back(input);
+		min = line[0];
+		max = line[0];
+		sum += input;
+
+		for  ( int i = 0; i< line.size();++i)
+		{
+		   if(line[i]>max)
+			   max = line[i];
+		   if(line[i] < min)
+			   min = line[i];
+		}
+	}
+
+	avg = sum/count;
+
+	cout << "summ = "<< sum <<endl;
+	cout << "min = " << min <<endl;
+	cout << "max = " << max <<endl;
+	cout << "avg = " << avg <<endl;
+
+	return true;
+}
