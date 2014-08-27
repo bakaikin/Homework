@@ -60,7 +60,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 
 
-
+	// printf("Hello!");
 	system("pause");
 	return 0;
 }
