@@ -61,7 +61,6 @@ int _tmain(int argc, _TCHAR* argv[])
 
 
 
-	//from foreign
 	system("pause");
 	return 0;
 }
