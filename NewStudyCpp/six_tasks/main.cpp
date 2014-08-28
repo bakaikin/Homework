@@ -13,7 +13,7 @@ using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
 
-  for (int i = 0; i < 5; i++)
+ /* for (int i = 0; i < 5; i++)
   {
 	  if( i%2 != 0 )
 	  {
@@ -36,7 +36,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	  cout << endl;
 
 
-	}  
+	}*/  
 	
 	  int n = 5;
 
