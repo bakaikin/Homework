@@ -61,6 +61,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 
 	// printf("Hello!");
+	//from master
 	system("pause");
 	return 0;
 }
